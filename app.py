@@ -31,4 +31,4 @@ def upload_file(path):
 
 
 if __name__ == '__main__':
-    app.run(debug=config.DEBUG)
+    app.run(debug=config.DEBUG, port=config.PORT)
