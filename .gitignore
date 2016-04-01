@@ -2,3 +2,5 @@
 __pycache__
 media/*
 local_config.py
+ve/
+ve3/
