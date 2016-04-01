@@ -30,3 +30,8 @@ Example for nginx :
             alias /path/to/my/media_dir; # by default it's /path/where/you/cloned/transfer.py/media
         }
     }
+
+
+# License
+
+Why not [MIT](https://opensource.org/licenses/MIT) ?
