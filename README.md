@@ -39,4 +39,4 @@ Why not [MIT](https://opensource.org/licenses/MIT) ?
 
 # Note
 
-If you like bash, you can also use @titouanc's 2 SLOC version : https://github.com/titouanc/homefiles/blob/master/bin/imgtitou
+If you like bash, you can also use [@titouanc](https://github.com/titouanc/)'s 2 SLOC version : https://github.com/titouanc/homefiles/blob/master/bin/imgtitou
